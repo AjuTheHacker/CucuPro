@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="3" time="57.816">
+<testcase classname="TO validate  login Functionlity of Wotif" name="To Validate login with Invalid Username and  Invalid Password" time="18.27">
+<system-out><![CDATA[Given User should be  lunch the Chrome browser and User load the url........passed
+And User should enter the "152452" and "@@@@@$$"............................passed
+And User can see sign in button is not visible..............................passed
+Then User should get text message under the Email address box...............passed
+]]></system-out>
+</testcase>
+<testcase classname="TO validate  login Functionlity of Wotif" name="To Validate login with Invalid Username and  Invalid Password 2" time="12.384">
+<system-out><![CDATA[Given User should be  lunch the Chrome browser and User load the url........passed
+And User should enter the "@@@@@@" and "152335789"..........................passed
+And User can see sign in button is not visible..............................passed
+Then User should get text message under the Email address box...............passed
+]]></system-out>
+</testcase>
+<testcase classname="TO validate  login Functionlity of Wotif" name="To Validate login with Invalid Username and  Invalid Password 3" time="26.062">
+<system-out><![CDATA[Given User should be  lunch the Chrome browser and User load the url........passed
+And User should enter the "Abcgmail.com" and "Ajaynonia"....................passed
+And User can see sign in button is not visible..............................passed
+Then User should get text message under the Email address box...............passed
+]]></system-out>
+</testcase>
+</testsuite>
